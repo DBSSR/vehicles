@@ -1,0 +1,7 @@
+pandas
+plotly_express
+<<<<<<< HEAD
+streamlit
+=======
+streamlit
+>>>>>>> bc8c3cd9585f8069cf4876f1837bcd1ea11ee9d1
